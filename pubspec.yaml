@@ -19,7 +19,7 @@ dependencies:
     git:
       url:  https://github.com/blader3390/opengl_es_bindings.git
       publish_to: none
-  ffi:^2.0.1
+  ffi: ^2.0.1
 
 dev_dependencies:
   flutter_test:

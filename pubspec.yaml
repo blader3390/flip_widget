@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  gl_canvas: ^1.0.6
+  gl_canvas:
   flip_renderer: ^0.0.1
   opengl_es_bindings:
   ffi:

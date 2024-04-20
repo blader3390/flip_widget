@@ -11,9 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
   gl_canvas:
+    git:
+      url:  https://github.com/blader3390/gl_canvas.git
+      publish_to: none
   flip_renderer: ^0.0.1
   opengl_es_bindings:
-  ffi:
+    git:
+      url:  https://github.com/blader3390/opengl_es_bindings.git
+      publish_to: none
+  ffi:^2.0.1
 
 dev_dependencies:
   flutter_test:
